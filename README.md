@@ -1,24 +1,12 @@
-# README
+# Rails 8 Study
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby on Rails学習用リポジトリ
 
-Things you may want to cover:
+## 環境
+- Ruby 3.x
+- Rails 8.x
+- MySQL
+- Docker
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 参考書籍
+- Ruby on Rails アプリケーションプログラミング（Rails 7をベースに Rails 8で実装）
